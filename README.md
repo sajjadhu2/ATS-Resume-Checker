@@ -1,4 +1,4 @@
-# ATS
+# ATS-Resume Similarity with Job Description
 To run the script, follow these steps:
 
 Open a text editor and copy the entire code into a new file.
