@@ -52,5 +52,3 @@ The output will be displayed below the cell, showing the similarity score as a p
 Using Jupyter Notebook allows you to execute the script and view the output within a notebook interface. You can also make use of additional Jupyter Notebook features such as markdown cells for documentation and further analysis.
 
 Remember to install any required dependencies, such as the difflib package, before running the script in the notebook
-
-If you encounter any errors or need further assistance, please let me know at https://www.linkedin.com/in/sajjadhu/
